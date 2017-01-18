@@ -1,0 +1,3 @@
+diffusion kinetics code
+
+examples: 
